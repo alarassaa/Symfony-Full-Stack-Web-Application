@@ -1,4 +1,4 @@
-# 🚀 Limitless Web Platform
+# 🚀 Web Platform
 
 A full-stack web application built with **Symfony 5** that integrates modern web features such as **Stripe payments, QR code generation, Google Charts analytics, reCAPTCHA security, and PDF generation**.
 
