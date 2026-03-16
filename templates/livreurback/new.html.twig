@@ -1,0 +1,11 @@
+{% extends 'baseback.html.twig' %}
+
+{% block title %}New Livreur{% endblock %}
+
+{% block body %}
+    
+
+    {{ include('livreurback/_form.html.twig') }}
+
+    <a href="{{ path('app_livreur_back_new') }}">back to list</a>
+{% endblock %}
